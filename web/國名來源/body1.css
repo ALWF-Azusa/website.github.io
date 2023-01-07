@@ -1,0 +1,16 @@
+body {
+    background: lightyellow;
+}
+
+header,
+footer {
+    clear: both;
+    text-align: center;
+}
+
+main {
+    float: left;
+    width: auto;
+    height: auto;
+    background-color: lightgray;
+}

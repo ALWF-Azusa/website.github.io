@@ -1,0 +1,23 @@
+body {
+    background: lightyellow;
+}
+
+header,
+footer {
+    clear: both;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    height: auto;
+    background-color: rgb(161, 255, 180);
+}
+
+main {
+    float: left;
+    width: 80%;
+    height: auto;
+    background-color: lightgray;
+}
